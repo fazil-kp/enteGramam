@@ -103,11 +103,8 @@ class _newProjectState extends State<newProject> {
               }else{
                 print("Not Selected");
               }
-
             },
           ),
-
-
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 40,vertical: 20),
             child: TextField(

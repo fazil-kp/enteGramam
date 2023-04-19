@@ -1,8 +1,8 @@
-# enteGramam
+## EnteGramam
 
 
 
-###### OBJECTIVE: 
+## OBJECTIVE: 
   Being unaware about Local Self Government's projects is a problem that faces by the society on now a days.
 The android web application proposed here aims at tackling this issue. 
   Through this, we will get a clearcut way to understand about projects and implementation at Panchayath level. 
